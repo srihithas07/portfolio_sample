@@ -19,7 +19,7 @@ const tooltips = document.querySelectorAll('.tt')
                             <div className="text-center text-light" id="back-text">
                                 <h1>Welcome to My Portfolio</h1>
                                 <p style={{ padding: "20px 0" }}>
-                                    Hi, I'm Your Name, a passionate web developer. I create responsive and user-friendly websites and web applications. Explore my portfolio to see some of my recent projects.
+                                    Hi, I'm Srihitha, a passionate web developer. I create responsive and user-friendly websites and web applications. Explore my portfolio to see some of my recent projects.
                                 </p>
                                 <Link to="/projects" className="btn btn-primary">View Projects</Link>
                             </div>
@@ -36,7 +36,7 @@ const tooltips = document.querySelectorAll('.tt')
                         <div className="col-lg-8 text-left mb-5">
                             <h2 className="mb-4">About Me</h2>
                             <p>
-                                Hi there! I'm Your Name, a passionate and creative web developer based in Your City. With a strong background in web development and design, I create user-friendly and visually appealing websites. My expertise includes front-end and back-end technologies, allowing me to bring ideas to life from concept to implementation.
+                                Hi there! I'm Srihitha, a passionate and creative web developer based in Chennai. With a strong background in web development and design, I create user-friendly and visually appealing websites. My expertise includes front-end and back-end technologies, allowing me to bring ideas to life from concept to implementation.
                             </p>
                             <p>
                                 I am constantly exploring new technologies and frameworks to stay up-to-date with the latest trends in web development. My goal is to deliver high-quality solutions that meet the unique needs of my clients and users.
