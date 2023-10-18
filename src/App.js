@@ -1,8 +1,8 @@
 import {HashRouter, Routes, Route} from 'react-router-dom';
-import './components/style.css'
-import Navbar from './components/Navbar';
+import './Components/styles.css'
+import Navbar from './Components/Navbar';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import { Home , About, Projects, Contact, } from './components/Navcomponents';
+import { Home, About, Projects, Contact, } from './Components/Navcomponents';
 
 function App() {
   return (

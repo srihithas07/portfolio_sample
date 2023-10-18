@@ -1,4 +1,4 @@
-import './style.css';
+import './styles.css';
 import { Link } from 'react-router-dom';
 import  abs  from './images/abs.png';
 import  pro  from './images/project.jpg';

@@ -19,6 +19,6 @@ section{
     height: 100%;
 } 
 .icon {
-    margin-right: 20px; /* Add space between icons */
-    color: black; /* Set icon color to black */
+    margin-right: 20px; 
+    color: black; 
 }
